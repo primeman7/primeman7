@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @primeman7
-- 👀 I’m interested in programmeing using IRIS from Intersystems
+- 👀 I’m interested in programming using IRIS from Intersystems
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cdzimmmerman@gmail.com
